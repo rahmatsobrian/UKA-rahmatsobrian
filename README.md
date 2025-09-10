@@ -17,3 +17,8 @@ then
 	menu
 	
  And you will see the main menu.
+
+Thanks to:
+blackeangel for the source
+
+Note: i just only fix the error
